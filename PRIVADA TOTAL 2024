@@ -7,6 +7,14 @@ https://cdn-1.nxplay.com.br/HITTS_TK/index.m3u8
 https://cdn-1.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
 #EXTINF:-1 group-title="*MUSIC TV" tvg-logo="https://iili.io/JKrAQFj.png",E Music Rock
 https://cdn-1.nxplay.com.br/SCH_TK/index.m3u8
+#EXTINF:-1 tvg-id="EURO SPORTS 1" tvg-name="EUROSPORS2" tvg-logo="https://i.postimg.cc/BQNwTjQP/eurosports1-AMPLIF.png"group-title="DEPORTES",Eurosport-1 HD
+http://185.189.225.150:85/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="EURO SPORTS 1" tvg-name="EUROSPORS2" tvg-logo="https://i.postimg.cc/tT8gcv48/eurosports-AMPLIF.png"group-title="DEPORTES",Eurosport-2 HD
+http://185.189.225.150:85/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="https://i.postimg.cc/W1fxZ8TP/ODISEA-ESP.png",ODISEA HD
+http://185.189.225.150:85/odisea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="https://i.postimg.cc/sx63Zv4m/image.png", HIT HD
+http://185.189.225.150:85/HitTV/index.m3u8
 #EXTINF:-1 group-title="MUSICA Y REALITIES" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj",360 | Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 group-title="ESTADOS UNIDOS DE AMÉRICA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/600x337.webp?type=channelTile",1059 | Telemundo Florida || ESTADOS UNIDOS DE AMÉRICA
