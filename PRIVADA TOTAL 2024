@@ -41,19 +41,19 @@ https://mediacp.us:8081/juncotv/index.m3u8
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/800px-Logo_TVE-2.svg.png",1085 | La 2 || ESPAÑA
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/manifest.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 1",Win
+#EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE
 http://190.61.43.118:45000/play/a067
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 2",Win Sports HD
+#EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIA⚽",CO | WIN SPORTS +  FHD
 http://200.59.188.3:8000/play/a00n
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 2",Win Sports HD
+#EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIA⚽",CO | WIN SPORTS +  FHD
 http://200.116.199.180:8000/play/a03q
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 2",Win Sports+ HD
+#EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIA⚽",CO | WIN SPORTS +  FHD
 http://200.59.188.3:8000/play/a028
-#EXTINF:-1 group-title="Amerika_COLOMBIA",Win Sports+ HD
+#EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIA⚽",CO | WIN SPORTS +  FHD
 http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="*DEPORTES TV",BEIN SPORTS XTRA HD
+#EXTINF:-1 group-title="*DEPORTES TV"tvg-logo="https://i.postimg.cc/yNZKY2rF/bein-sports.png",BEIN SPORTS XTRA HD
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES TV",BEIN SPORTS XTRA ESPAÑOL HD
+#EXTINF:-1 group-title="DEPORTES TV"tvg-logo=https://i.postimg.cc/yNZKY2rF/bein-sports.png"",BEIN SPORTS XTRA ESPAÑOL HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_PLUTO 2" tvg-logo="https://i.postimg.cc/Kv1sGQtL/TV-AZTECA-DEPORTES.png",Azteca Deportes Network
 https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
