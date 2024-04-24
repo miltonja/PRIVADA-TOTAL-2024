@@ -543,16 +543,6 @@ https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.postimg.cc/52DmWgXF/HOLA_PLAY.png",HOLA PLAY HD
 https://i.mjh.nz/SamsungTVPlus/ESBA1400008NE.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV_ACCION.png",VIWIX TV ACCION
-http://45.189.148.24:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV_ESTRENOS.png",VIWIX TV ESTRENOS
-http://45.189.148.24:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qRWwTKZT/VIWIX-TV_MUSIC.png",VIWIX TV MUSIC
-http://45.189.148.24:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/fRGvGDGt/VIWIX-TV_SERIES.png",VIWIX TV SERIES
-http://45.189.148.24:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV_TERROR.png",VIWIX TV TERROR
-http://45.189.148.24:8000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/7Wlt6bc.png",HERMANDAD SALSERA HD
 https://streamlov.alsolnet.com/hermandadsalsera/live/chunklist_w1140069917.m3u8
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/Lgub1F8.jpg",RDM TV HD
@@ -621,10 +611,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 https://d39uqn16w2n0w1.cloudfront.net/scte35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MTV CON MI EX" tvg-logo="https://i.postimg.cc/hPSXSMV4/LA-VENGANZA-DE-LOS-EX.png",MTV CON MI EX HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638693db857364000781b471/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/710px-Telemundo_logo_2018.svg.png",ช่อง Telemundo
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/65880
-#EXTINF:-1 group-title="USA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png",ช่อง Univision
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58627
 #EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://i.postimg.cc/WtRY803S/Premier-League-Logo5.png",➾ | LA LEAGUE PREMIER | PARAMOUNT
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="https://img3.hulu.com/user/v3/artwork/db0b43c0-7bb8-4fbd-bddd-022a5e0ebc5a?base_image_bucket_name=image_manager&base_image=b52c0487-fdb3-48bd-a7cc-102149d59b01&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D",001 A&E HD
@@ -665,8 +651,6 @@ https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://oasisrtv.com/wp-content/uploads/2021/07/cropped-00000001-5-1.png",OASISRTV TV HD
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 group-title="PERU" tvg-logo="https://static-media.streema.com/media/cache/3d/4f/3d4f43282ed3dc11c181cb6f6e60e837.jpg",TM CREATIVOS TV HD
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/Qd9d6JG3/HOY-RADIO-Y-TV.png",HOY NET TV HD
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 group-title="PERU" tvg-logo="https://doblectelevision.com/wp-content/uploads/2023/11/LOGO-GRUPO-DOBLE-C-SAC-02-1024x470.png",DOBLE C TV HD
@@ -875,10 +859,6 @@ https://cdn.002radio.com:3909/live/radio002live.m3u8
 https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZKnCyMTh/VALE-TV-ESP.png",VALE TV | VE
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90GvWbYj/TELENORD-TV12-HD.png",TELENORD 12 | DO
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/15QkWxyR/TELENORD-TV-8-HD.png",TELENORD 8 | DO
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/PxhG4x4C/ESTACION-CRISTAL-ESP.png",ESTACION CRISTAL | PY
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/fyhgNHXg/CHV-NOTICIAS-svg.png",CHV Noticias | CL
@@ -905,16 +885,12 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/YBaxWQC.png",Galicia TV América
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/OprRgQN.png",eSports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/g2jjJmfY/AMERICA-TUCUMAN.png",América Tucumán
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.postimg.cc/cCqZsNfL/Am-rica-TV-Nuevo-logo-Junio-2020.png",América TV
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.canal5picotruncado.com/wp-content/uploads/2022/10/canal5logo-x1.png",Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/WX0esjQ.png",Canal 5 Santa Fe
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/HfyKPpD.png",El Doce
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2023/01/logo-texto-gris.png",El Siete Mendoza
@@ -973,8 +949,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png",FTF Sports
 https://d305d0233e434638bc8be2ce61a28e3c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FTFNextUS/playlist.m3u8?ads.wurl_channel=246&ads.wurl_name=FTFNextUS&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=LNegCFRp1focA3KkJgjM&ads.plex_id=605a309dc5acdc002c7a20aa&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png",eSports Max TV | VE
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="España" tvg-logo="https://i.postimg.cc/y6S1SDCn/SUPER-TV.png",Super TV
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/D03tGy1Y/RADIO-FAVORITA.png",FAVORITA TV RADIO HD
