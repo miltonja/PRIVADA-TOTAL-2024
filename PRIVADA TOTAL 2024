@@ -577,7 +577,7 @@ https://marine2.miplay.cl/oldmusic/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 group-title="*WORLD_TV MIX" tvg-logo="https://i.imgur.com/8Hvk59N.png",Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 group-title="*WORLD_TV MIX",Latina Mix Radio Tv (360p)
+#EXTINF:-1 group-title="*WORLD_TV MIX"tvg-logo="https://static.mytuner.mobi/media/tvos_radios/6xfj2kqgfund.png",Latina Mix Radio Tv (360p)
 https://srv.panelcast.net/latinamixtvtv2021/latinamixtvtv2021/playlist.m3u8
 #EXTINF:-1 group-title="*WORLD_TV MIX" tvg-logo="https://i.imgur.com/g5ShxZ7.png",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
