@@ -115,9 +115,9 @@ http://200.116.199.180:8000/play/a03q
 http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-id="WIN PLUS" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://daleplay.club:8080/images/895af1740bae2e2f67724bd7839d38c4.png" group-title="⚽DEPORTE COLOMBIA⚽",CO | WIN SPORTS +  FHD
 http://181.205.130.194:4000/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="*DEPORTES TV"tvg-logo="https://i.postimg.cc/yNZKY2rF/bein-sports.png",BEIN SPORTS XTRA HD
+#EXTINF:-1 group-title="*DEPORTES TV"tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png",BEIN SPORTS XTRA HD
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES TV"tvg-logo="https://i.postimg.cc/yNZKY2rF/bein-sports.png",BEIN SPORTS XTRA ESPAÑOL HD
+#EXTINF:-1 group-title="DEPORTES TV"tvg-logo="https://i.postimg.cc/rwcDgkzS/AAA-BEIN-SPORTS.png",BEIN SPORTS XTRA ESPAÑOL HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Amerika_Argentina_PLUTO 2" tvg-logo="https://i.postimg.cc/Kv1sGQtL/TV-AZTECA-DEPORTES.png",Azteca Deportes Network
 https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
