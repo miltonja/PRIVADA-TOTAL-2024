@@ -717,20 +717,6 @@ http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/479415.ts
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/505449.ts
 #EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ SD 
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/12759.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾CASA DE LOS FAMOSOS
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586712.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾COMEDOR
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586769.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾LOFT
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586770.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾HABITACION AGUA
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586771.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾HABITACION FUEGO
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586772.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾BEAUTY
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586773.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆CASA DE LOS FAMOSOS🔆»→" tvg-logo="https://i.postimg.cc/bw4VfdTs/image.jpg",🔆|➾BAÑOS
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/586774.ts
 #EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="https://i.postimg.cc/rpSRnVG5/AZTECA-UNO-BUENO.png",🔆|➾CANAL UNO
 https://cp.panelchs.com:1936/8034/8034/playlist.m3u8
 #EXTINF:-1  tvg-name=""group-title="←«🔆ECUADOR🔆»→"tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg",🔆|➾ATACAMA TV
@@ -923,16 +909,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1  tvg-name="VTV CHILE"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/DyVJZrQ0/VTV-Los-Andes-en-vivo-Online.png",🔆|➾VTV CHILE
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾COCINANDO TV
-https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/7.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾CULTOUR TV
-https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/5.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾MEDIA TV
-https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/3.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾VIDEO HIT TV
-https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name=""group-title="←«🔆🔆»→" tvg-logo="",🔆|➾CANAL 66 NOTICIAS
-https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="WTV CANAL 20"group-title="←«🔆NICARAGUA🔆»→" tvg-logo="https://i.postimg.cc/bvr7b222/WTV-CANAL-20.png",🔆|➾WTV CANAL 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1  tvg-name="NIM TV"group-title="←«🔆🔆»→" tvg-logo="https://i.postimg.cc/hjNL7rJB/NIM-TV.png",🔆|➾NIM TV
@@ -1151,10 +1127,6 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tiNvihZ.png",Top FM TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/RnZU9q3.png",TVQ
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CQpuBeQ.png",TVQ Sports
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/a2YX1oj.jpg",TVS
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cgTD2TW.png",Unicanal
