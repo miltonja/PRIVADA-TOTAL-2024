@@ -1967,7 +1967,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 group-title="EU_ITALIA" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png",KISS KISS TV Napoli TV (720p)
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://i.postimg.cc/zvPsfwf8/italianostop.png",KISS KISS TV
+#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://i.postimg.cc/zvPsfwf8/italianostop.png",KISS KISS TV HD
 https://59253971be783.streamlock.net/KKTV01/livestream/chunklist_w1762317423.m3u8
 #EXTINF:-1 group-title="EU_ITALIA" tvg-logo="https://i.postimg.cc/zvPsfwf8/italianostop.png",KISS KISS TV (720p)
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
