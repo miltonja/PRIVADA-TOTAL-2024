@@ -1963,10 +1963,6 @@ https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="EU_SPAIN_PLUTO" tvg-logo="https://i.postimg.cc/7LxNhVcG/NATURE-TIME-BLANCO.png",LOVE NATURE TIME | PLUTO TV ESPAÑA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Xiaomi_TV" tvg-logo="https://i.postimg.cc/J0NXd5Gr/HOLA-PLAY-2.png",HOLA (ES)
-https://rakuten-hola-2-es.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="EU_SPAIN" tvg-logo="https://i.postimg.cc/gJxBV9tR/HOLA-PLAY-ESP.png",Hola Playᴴᴰ [Rakuten]
-https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png",KISS KISS TV Italia HD
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 group-title="EU_ITALIA" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png",KISS KISS TV Napoli TV (720p)
