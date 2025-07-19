@@ -29,9 +29,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1  tvg-name="NEO TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/L84vcjgs/Neo-Tv.png",🔆|➾NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name="RUN TIME LATINO"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Vkmxcwdj/RUN-TIME.png",🔆|➾✩»→RUN TIME LATINO
+#EXTINF:-1  tvg-name="RUN TIME LATINO"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Z52cxNT5/RUN-TIME-MEJOR-GRIS-BLANCO.png",🔆|➾✩»→RUN TIME LATINO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1  tvg-name="RUN TIME FILMS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png",🔆|➾✩»→RUN TIME FILMS
+#EXTINF:-1  tvg-name="RUN TIME FILMS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/g0hKS0Jq/RUN-TIME-TV.png",🔆|➾✩»→RUN TIME FILMS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1  tvg-name="RUN TIME ESPAÑOL"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/X7WxYYcY/runtime-espanol.png",🔆|➾✩»→RUN TIME ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
@@ -49,9 +49,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1  tvg-name="MY TIME MOVIE NETWORK"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="RUN TIME"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/TwWQpy4p/RUN-TIME-BLANCO.png",🔆|➾RUN TIME 
+#EXTINF:-1  tvg-name="RUN TIME"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Z52cxNT5/RUN-TIME-MEJOR-GRIS-BLANCO.png",🔆|➾RUN TIME 
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-#EXTINF:-1  tvg-name="RUN TIME ACTION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/CK2mhCJ3/RUN-TIME.png",🔆|➾RUN TIME ACTION
+#EXTINF:-1  tvg-name="RUN TIME ACTION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/8kq4QM8Q/RUN-TIME-BLANCO-TV.png",🔆|➾RUN TIME ACTION
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
 #EXTINF:-1 tvg-name="MY TIME ESPAÑA"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
