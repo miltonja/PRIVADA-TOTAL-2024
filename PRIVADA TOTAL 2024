@@ -98,14 +98,10 @@ https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/gJ4qRdnS/TELEMUNDO-BLANCO.png",🔆|➾TELEMUNDO 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-name="TUDN USA"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/R0YqZ5bp/TUDN-PLANTILLA-Logo-svg.png",🔆|➾TUDN USA
-http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-name="FOX SPORTS"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/YCLT10XM/fox-sports.png",🔆|➾FOX SPORTS
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-name="CANAL 12"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.postimg.cc/pLKGY43r/800px-Canal-12-El-Salvador-2018.png",🔆|➾CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="+ CINE"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/0NG892gR/CINE.png",🔆|➾+ CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-name="UNIVISION 24/7 VIX"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/T1cv8sFj/UNIVISION-MEJOR.png",🔆|➾UNIVISION 24/7 VIX
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO 52"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/mgPjf0Zq/TELEMUNDO-52-CALIFORNIA.png",🔆|➾TELEMUNDO 52
@@ -114,8 +110,6 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036&declaredCC1Language=es&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 tvg-name="UNIVISION 24/7"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png",🔆|➾UNIVISION 24/7
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1 tvg-name="UNIVERSO"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/MT31G4F5/universo.png",🔆|➾UNIVERSO
-http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
 #EXTINF:-1 tvg-name="UNIVERSO"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/MT31G4F5/universo.png",🔆|➾UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN (español)" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión",CGTN
