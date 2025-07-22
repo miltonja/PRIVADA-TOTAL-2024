@@ -2339,93 +2339,72 @@ https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
 https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",Danger TV -TCL
 https://dangertv-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
+
+
+
+
+
+
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",Activa TV España
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",Activa TV España
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200",RTL 102.5 Italia IT
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200",RTL 102.5 Italia IT
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200",QMusic Holanda NL
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200",QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200",4FUN TV Polonia PL
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200",4FUN TV Polonia PL
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200",Ocko Chequia CZ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200",Ocko Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200",Ocko Star Chequia CZ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200",Ocko Star Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200",Ocko Expres Chequia CZ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200",Ocko Expres Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/Number1FM/picture?width=200&height=200",NumberOne Turquía
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/Number1FM/picture?width=200&height=200",NumberOne Turquía
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200",m2o Italia IT
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200",m2o Italia IT
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/NRG91/picture?width=200&height=200",NRG91 Grecia
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/NRG91/picture?width=200&height=200",NRG91 Grecia
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",First Music Channel Bielorrusia
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200",First Music Channel Bielorrusia
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200",30A Music USA EN
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200",30A Music USA EN
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200",California Music Channel USA EN
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200",California Music Channel USA EN
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200",Retro Music TV Chequia EN
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200",Retro Music TV Chequia EN
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 ,like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200",La Mega Mundial USA
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200",La Mega Mundial USA
 https://server40.servistreaming.com:3477/hybrid/play.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV USA EN
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200",Ditty TV USA EN
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
-#EXTINF:-1 group-title="Musicales" tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200",Spirit TV USA EN
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200",Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200",AKC TV Dogs EN
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
-#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200",AKC TV Dogs EN
-https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
-#EXTINF:-1 ,Outside Tv +
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→"tvg-logo="",Outside Tv +
 https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV midnight
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV Paris
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png",Latin Zone TV | US
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png",Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png",Retro Music Television | CZ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png",Retro Music Television |
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png",Solobailalo TV | CL
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png",Solobailalo TV | CL
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png",Turbo Mix TV | PE
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png",Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Amerika_ARGENTINA",Real Madrid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 group-title="EU_PORTUGAL",REAL MADRID - INGLÊS
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",REAL MADRID - INGLÊS
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 ,Radio Yguazú TV (480p)
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="" ,Radio Yguazú TV (480p)
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 ,Infinita TV Premium | US
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="" ,Infinita TV Premium | US
 https://s2.tvdatta.com:3753/hybrid/play.m3u8?PlaylistM3Uronnyjaguar
-#EXTINF:-1 ,Frecuencia Musical TV | US
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="" ,Frecuencia Musical TV | US
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3Uronnyjaguar
-#EXTINF:-1 ,MTV CLIPES 1
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",MTV  1 MUSIC
+http://rtmp.one.by:1200
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="*WORLD_TV MIX",RAKUTEN ROMANCE ES
 http://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
