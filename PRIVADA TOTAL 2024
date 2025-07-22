@@ -2037,7 +2037,6 @@ https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆NARIÑO TV🔆»→" tvg-logo="https://i.postimg.cc/4dZS0FQW/SON-POPULAR.png",CNC PASTO SON POPULAR
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-
 #EXTINF:-1 group-title="←«🔆COLOMBIA🔆»→"tvg-logo="https://i.imgur.com/edaAexc.png",CANAL NETS HD
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 group-title="←«🔆ENTRTENIMIENTO🔆»→" tvg-logo="https://i.imgur.com/1aNEo6U.png",CANAL 14 SAN CARLOS
@@ -2220,122 +2219,86 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="←«🔆COLOMBIA🔆»→"tvg-logo="https://i.postimg.cc/ydY7M24Q/RCN-MAS-HD.png",RCN Mas+ .MX -TCL
 https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://i.imgur.com/xXS3GTp.png",SIC
+#EXTINF:-1 group-title="←«🔆PORTUGAL🔆»→"tvg-logo="https://i.imgur.com/xXS3GTp.png",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://i.imgur.com/xXS3GTp.png",SIC | Portugal
+#EXTINF:-1 group-title="←«🔆PORTUGAL🔆»→"tvg-logo="https://i.imgur.com/xXS3GTp.png",SIC | Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP 1" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/music-box-hd.png",Russian MusicBox
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/music-box-hd.png",Russian MusicBox
 http://hls.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62ebdf90b98485d6b90750f2",PokerGo
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62ebdf90b98485d6b90750f2",PokerGo
 https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/2023/09/TV_Brasil_logo_2023.svg_.png",PONTV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://branditechture.agency/brand-logos/wp-content/uploads/2023/09/TV_Brasil_logo_2023.svg_.png",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/FVNL477/pdance.png",POWER DANCE
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/FVNL477/pdance.png",POWER DANCE
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.postimg.cc/R0YDf0SJ/pdance.png",Power Dance FHD
-https://listen.powerapp.com.tr/dance/dance.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.postimg.cc/R0YDf0SJ/pdance.png",POWER DANCE HD
-https://listen.powerapp.com.tr/dance/dance.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="WORLD_OTHERSTV" tvg-logo="https://i.postimg.cc/cC0M8qn8/image.png",Power Hit Radio (720p) [Not 24/7]
-https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",POWER LOVE FHD
-http://livetv.powerapp.com.tr/plove/love.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.imgur.com/9OPoXQG.png",Power Turk (1080p)
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.imgur.com/9OPoXQG.png",Power Turk (1080p)
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.imgur.com/9OPoXQG.png",POWER TURK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TURK TAPTAZE
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="http://hasbahca.net/TVLogo/world/power-tv-tr.png",POWER TÜRK
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="http://hasbahca.net/TVLogo/world/power-tv-tr.png",POWER TÜRK
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",POWER TÜRK AKUSTIK
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png",POWER TÜRK SLOW
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png",POWER TÜRK SLOW
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="http://hasbahca.net/TVLogo/world/power-tv-tr.png",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",Power TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",Power TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png",POWER TV AKUSTiK
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/HasBahCa.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP 1",SONGTV Armenia
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",SONGTV Armenia
 http://hls.peers.tv/streaming/songtv_armenia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="RUS_EXCCCP 1",SONGTV Russia
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",SONGTV Russia
 http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="http://hasbahca.net/TVLogo/world/power_turk_tr_tv.png",POWER TV AKUSTiK FHD
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_MUZIK" tvg-logo="http://hasbahca.net/TVLogo/world/powerturk-tr.png",POWER TV FHD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1 group-title="ASIA_THAILAND" tvg-logo="https://i.imgur.com/mp6mgwy.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="1WORLD_SPORT" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Amerika_MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",MILENIO NOTICIAS
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png",MILENIO NOTICIAS
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
-#EXTINF:-1 group-title="RUS_ucomistnet" tvg-logo="https://i.postimg.cc/gJDGqBMb/MAVTV-AMERICAN-REAL.png",MAVTV HD
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→"tvg-logo="https://i.postimg.cc/gJDGqBMb/MAVTV-AMERICAN-REAL.png",MAVTV HD
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/1074/index.m3u8
-#EXTINF:-1 group-title="Xiaomi_TV" tvg-logo="https://i.postimg.cc/PJgh0vsz/GLOBAL-FASHION-CHANNEL.png",Global Fashion Channel (EU)
-https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.postimg.cc/PJgh0vsz/GLOBAL-FASHION-CHANNEL.png",Global Fashion Channel .CA -TCL
-https://gfcomnimedia-globalfashionchannel-1-ca.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV" tvg-logo="https://i.postimg.cc/PJgh0vsz/GLOBAL-FASHION-CHANNEL.png",Global Fashion Channnel -TCL
-https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,XPRESSO JOVEN CR
-https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-#EXTINF:-1 group-title="Distro" tvg-logo="https://i.postimg.cc/WbKNRHM7/TOP-CINE.png",Top Cine Latam
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8
-#EXTINF:-1 group-title="Distro" tvg-logo="https://i.postimg.cc/fbrYcTwB/TU-CINE-MUESTRA.png",Tu Cine Latam
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
-#EXTINF:-1 group-title="Distro",Chiquilines
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
-#EXTINF:-1 group-title="Distro_TV" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca-1/logo_20220901_170707_68.png",TRACE Brazuca
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca-1/logo_20220901_170707_68.png",TRACE Brazuca
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=89324&ads.show_id=3307&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TRACE%20Brazuca&ads.episodetitle=TRACE%20Brazuca&ads.keywords=Music%2CBrazil%2CPortuguese&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="Amerika_BRASIL_TVPLUS",Trace Brazuca (Brazil)
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Trace Brazuca (Brazil)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Trace Brazuca -TCL
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Trace Brazuca -TCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",Trace Latina
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Distro_TV" tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/logo_20220719_201226_68.png",TRACE Latina
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/logo_20220719_201226_68.png",TRACE Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=86556&ads.show_id=3242&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=TRACE%20Latina&ads.episodetitle=TRACE%20Latina&ads.keywords=Spanish%2CMusic%2CLatina%2CLatino&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="TCL_TV",Trace Latina -TCL
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Trace Latina -TCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP only4tv",Trace Sport Stars HD
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Trace Sport Stars HD
 http://s.only4.tv/7700/index.m3u8?token=Y4oytkmFW4
-#EXTINF:-1 group-title="Xiaomi_TV",Trace Sports Stars
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→tvg-logo=""",Trace Sports Stars
 https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="http://hasbahca.net/TVLogo/world/Trace Sport Stars.png",Trace Urban
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/world/Trace Sport Stars.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Trace Sport Stars.png",Trace Urban
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/Trace Sport Stars.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 group-title="AUSTURALIA_NZELAND",Trace Urban
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Distro_TV" tvg-logo="https://a.jsrdn.com/hls/23073/trace-urban/logo_20220719_201453_68.png",TRACE Urban
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://a.jsrdn.com/hls/23073/trace-urban/logo_20220719_201453_68.png",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=86557&ads.show_id=3243&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TRACE%20Urban&ads.episodetitle=TRACE%20Urban&ads.keywords=Music%2CTop%20Hits%2CToday%27s%20Top%20Hits&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="RUS_EXCCCP 2" tvg-logo="http://hasbahca.net/TVLogo/world/Trace Sport Stars.png",Trace Urban HD
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/world/Trace Sport Stars.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL" tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png",KroneHIT
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png",KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP 2" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit HD
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="WORLD_OTHERSTV" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit HD
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com:443/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/HasBahCa.m3u8
-#EXTINF:-1 group-title="1WORLD_MUSIC" tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png",Kronehit TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP 2" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit TV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",kronehitV
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="http://hasbahca.net/TVLogo/Channel/logo/krone-tv-at.png",kronehitV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b2dc31d3017a607c3c07",Fido TV
+https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b2dc31d3017a607c3c07",Fido TV
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
 #EXTINF:-1 group-title="1WORLD_SPORT",Fidotvᴴᴰ
