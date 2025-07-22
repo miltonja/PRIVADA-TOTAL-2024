@@ -2299,79 +2299,45 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
 #EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b2dc31d3017a607c3c07",Fido TV
 https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60e5b2dc31d3017a607c3c07",Fido TV
-https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 group-title="1WORLD_SPORT",Fidotvᴴᴰ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→",Fidotvᴴᴰ
 https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 group-title="Amerika_BRASIL_TVPLUS",Chive TV (Brazil)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
-#EXTINF:-1 group-title="ASIA_KOREA",ch.핑크퐁
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ch.%ED%95%91%ED%81%AC%ED%90%81&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&coppa=1&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
-#EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="http://hasbahca.net/TVLogo/world/canakkale_tv_tr.png",Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="http://hasbahca.net/TVLogo/world/can_tv_24_tr.png",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 group-title="Vidaa_TV",Canela TeleNovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3078
-#EXTINF:-1 group-title="LOCALNOW_TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61c34c2bf31f14767f3cbdc4",Canela TV
-https://cnm-cn.otteravision.com/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index.m3u8
-#EXTINF:-1 group-title="USA_iptv" tvg-logo="http://hasbahca.net/TVLogo/world/can-tv-tr.png",Canela TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop
-#EXTINF:-1 group-title="USA_PLEX" tvg-logo="http://hasbahca.net/TVLogo/world/can-tv-tr.png",Canela TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HJNpAsLWteW2_Q7vbySW&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HJNpAsLWteW2_Q7vbySW&custom_7=5f5132e362fe160040f26c18
-#EXTINF:-1 group-title="USA_iptv" tvg-logo="http://hasbahca.net/TVLogo/world/canakkale_tv_tr.png",Canela TV (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="http://hasbahca.net/TVLogo/world/can_tv_24_tr.png",CANELA TV 2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
-#EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="http://hasbahca.net/TVLogo/world/can-tv-tr.png",Canela.TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
-#EXTINF:-1 group-title="EU_SPAIN" tvg-logo="http://hasbahca.net/TVLogo/world/can-tv-tr.png",Canela.TV
-https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
-#EXTINF:-1 group-title="Amerika_ARGENTINA" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200",Cantabria: Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:-1 group-title="Amerika_VENEZUELA_CUBA" tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png",Cantina TV | VE
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://i2.paste.pics/ede0172917569eae7de0f05b84cfde92.png",Cantina TV | VE
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 group-title="RUS_kazmazpazorg",BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→",BRIDGE TV Русский Хит
 http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/120/index.m3u8
-#EXTINF:-1 group-title="RUS_ucomistnet",BRIDGE TV Русский Хит
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→",BRIDGE TV Русский Хит
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/120/index.m3u8
-#EXTINF:-1 group-title="RUS_EXCCCP only4tv",Bridge TV Шлягер
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→",Bridge TV Шлягер
 http://s.only4.tv/6872/index.m3u8?token=Y4oytkmFW4
-#EXTINF:-1 group-title="RUS_EXCCCP_myott.top [Geo-blocked]",BRIDGE РУССКИЙ ХИТ
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→",BRIDGE РУССКИЙ ХИТ
 http://myott.top/stream/MQC4SG6DIS/320.m3u8
-#EXTINF:-1 group-title="Amerika_CHILE" tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png",Gracia TV | CL
+#EXTINF:-1 group-title="←«🔆CHILE🔆»→"tvg-logo="https://lh3.googleusercontent.com/-SWtsCllpbio/Xpz5oNEdmDI/AAAAAAAAyBc/fsfhz_a0y9I-6v8vfM0zUc_9C_xG3DgagCK8BGAsYHg/s0/2020-04-19.png",Gracia TV | CL
 https://v4.tustreaming.cl/graciatv/index.m3u8
-#EXTINF:-1 group-title="LG_Channels",Fashion TV (ES)
+#EXTINF:-1 group-title="←«🔆LIFESTYLE🔆»→",Fashion TV (ES)
 https://fashiontv-fashiontv-5-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="LG_Channels",Fashion TV (FR)
+#EXTINF:-1 group-title="←«🔆LIFESTYLE🔆»→",Fashion TV (FR)
 https://fashiontv-fashiontv-5-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_ULUSAL" tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
+#EXTINF:-1 group-title="←«🔆LIFESTYLE🔆»→"tvg-logo="https://i.ibb.co/9grLJCS/fone22.png",FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="Xiaomi_TV",Escapes (EU)
-https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Distro_TV" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20220609_171400_68.png",ENCORE+
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20220609_171400_68.png",ENCORE+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8?
-#EXTINF:-1 group-title="Amerika_COLOMBIA",EL TIEMPO
-http://181.78.8.90:16123/play/ch42
-#EXTINF:-1 group-title="Vidaa_TV",Drone TV (EU)
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV (EU)
 https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV .AU -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV .AU -TCL
 https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV .BR -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV .BR -TCL
 https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV .CA -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV .CA -TCL
 https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV .DE -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV .DE -TCL
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV .FR -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV .FR -TCL
 https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone Tv .MX -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone Tv .MX -TCL
 https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Drone TV -TCL
+#EXTINF:-1 group-title="←«🔆WEBCAM🔆»→"tvg-logo="",Drone TV -TCL
 https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Vizio_TV",Danger TV
-https://dangertv-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Danger TV -TCL
+#EXTINF:-1 group-title="←«🔆🔆»→"tvg-logo="",Danger TV -TCL
 https://dangertv-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png",Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
