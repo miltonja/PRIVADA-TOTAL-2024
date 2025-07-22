@@ -3319,22 +3319,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d18009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1 group-title="LG_Channels",Qwest Jazz (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8
-#EXTINF:-1 group-title="LG_Channels",Qwest Jazz (PT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playlist.m3u8
-#EXTINF:-1 group-title="EU_SKANDINAV_FINLAND_TVPLUS",Qwest Jazz and Beyond
-https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TCL_TV",Qwest Jazz -TCL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
-#EXTINF:-1 group-title="ENG_ENGLAND_IRL_Rakuten_TV",Qwest TV Jazz and Beyond
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="WR INSTRUMENTAL Radio" tvg-logo="https://www.radio.pervii.com/logo/1403634281.png",Tropicalisima.fm Instrumental - 128 kbit/s
-http://tropicalisima.org:9000/stream/1/
-#EXTINF:-1 group-title="WR INSTRUMENTAL Radio" tvg-logo="https://www.radio.pervii.com/logo/1403634281.png",TROPICALISIMA.FM INSTRUMENTAL 2 - 128 kbit/s
-http://23.237.150.178:9002/stream/1/
-#EXTINF:-1 group-title="WR MIXED Radio" tvg-logo="https://www.radio.pervii.com/im/3/1550056323.jpg",TropikalMixx - 128 kbit/s
-http://listen.radionomy.com/Tropikal-Mixx
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
