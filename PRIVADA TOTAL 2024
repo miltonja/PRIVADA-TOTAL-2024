@@ -3207,151 +3207,117 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce5214
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="←«🔆PLUTO  REALITY ESPAÑOL🔆»→"tvg-logo="tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",Sala de parejas | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/S6qgwLG.png",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fSNc0jP.png",Chukyo TV News
+#EXTINF:-1 group-title="←«🔆REALITY🔆»→"tvg-logo="https://i.imgur.com/HOYF8NA.png",Scientology Network
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="←«🔆REALITY🔆»→" tvg-logo="https://i.imgur.com/fSNc0jP.png",Chukyo TV News
 https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/NJYEYE3.png",Rakuten Comedy Movies
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/NJYEYE3.png",Rakuten Drama
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Family;Movies" tvg-logo="https://i.imgur.com/NJYEYE3.png",Rakuten Family
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Rakuten TV Shows Spain (720p)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/yujGVbm.png",Sevilla FC TV
+#EXTINF:-1 group-title="←«🔆DEPORTES🔆»→"tvg-logo="https://i.imgur.com/yujGVbm.png",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 group-title="Family" tvg-logo="https://i.imgur.com/F4hEPMK.png",The Pet Collective
+#EXTINF:-1 group-title="←«🔆ENTRETENIMIENTO🔆»→"tvg-logo="https://i.imgur.com/F4hEPMK.png",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/EW2bfix.png",Univers TV
+#EXTINF:-1 group-title="←«🔆TV ESPAÑOL🔆»→"tvg-logo="https://i.imgur.com/EW2bfix.png",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/1vTno0m.png",13 Entretención
+#EXTINF:-1 group-title="←«🔆CHILE🔆»→"tvg-logo="https://i.imgur.com/1vTno0m.png",13 Entretención
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/49QkKWv.png",13 Cultura
+#EXTINF:-1 group-title="←«🔆CHILE🔆»→"tvg-logo="https://i.imgur.com/49QkKWv.png",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/YwDFNxs.png",13 Prime
+#EXTINF:-1 group-title="←«🔆CHILE🔆»→"tvg-logo="https://i.imgur.com/YwDFNxs.png",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/m6y9AMe.png",13 Kids
+#EXTINF:-1 group-title="←«🔆CHILE🔆»→"tvg-logo="https://i.imgur.com/m6y9AMe.png",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE
+#EXTINF:-1 group-title="←«🔆PLUTO CINE🔆»→"tvg-logo="",CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:-1 group-title="EU_FRANCE_PLUTO",Ciné | Pluto TV França
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Cine ¡¡jaja!!
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"tvg-logo="",Cine ¡¡jaja!!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="EU_SPAIN_PLUTO",Cine ¡¡jaja!!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="*TR TÜRKİYE_ULUSAL" tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png",CINE 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_YEREL",Cine 1 - İstanbul
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-#EXTINF:-1 group-title="*WORLD_TV MIX",CINE CANAL
-https://epg.pw/stream/21bedc2ca5ee8059d9421c35c4d8962ed8af45880e23656a79972d995157f21b.m3u8
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Clásico
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_MEXICO",CINE CLÁSICO
+#EXTINF:-1 group-title="←«🔆MUSICA🔆»→"up-title="Amerika_MEXICO"",CINE CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Clássicos
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Clássicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Clássicos | link 2
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Clássicos | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Clássicos | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Clássicos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine COMEDIA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine COMEDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE COMEDIA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Comédia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Comédia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia | link 2
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Comédia | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo=",Cine Comédia | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE COMEDIA 2
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE COMEDIA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia Romântica | link 2
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Comédia Romântica | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Comédia Romântica | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Comédia Romântica | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Drama
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Drama
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",CINE DRAMA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",CINE DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE DRAMA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo=",CINE DRAMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Drama | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Drama | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE DRAMA 2
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE DRAMA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",CINE DRAMA PLUTO.TV
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE DRAMA PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",CINE DRAMA PLUTO.TV
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE DRAMA PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Estelar
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Estelar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",CINE FAMILI PLUTO.TV
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE FAMILI PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Familia
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE FAMILIA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Família
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Família
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",CINE FAMÍLIA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",CINE FAMÍLIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Família | Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Família | Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",CINE HUMOR
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",CINE HUMOR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE JAJA
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE JAJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 2",Cine Latino
-http://45.167.3.81:45000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Amerika_*Latino_MIX 1",Cine Latino
-http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1 group-title="DE_SWITZERLAND_TVPLUS",Ciné Nanar [FR]
-https://d3lwqzsafhkf1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-CH-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 group-title="EU_SPAIN",Cine Real
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8
-#EXTINF:-1 group-title="EU_FRANCE_PLUTO",Ciné Rétro | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Romance
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Romance
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",CINE ROMANCE
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",CINE ROMANCE
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",CINE ROMANCE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Romance | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Romance | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE ROMÁNTICO
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE ROMÁNTICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Sucessos
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",CINE SUCESSOS
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",CINE SUCESSOS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 group-title="Amerika_BRASIL_PLUTO",Cine Sucessos | Pluto TV Brasil
+#EXTINF:-1 group-title="←«🔆PLUTO CINE BRASIL🔆»→"tvg-logo="",Cine Sucessos | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="EU_SPAIN",Cine Sureno
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
-#EXTINF:-1 group-title="Amerika_Argentina_PLUTO",Cine Suspenso
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine Suspenso
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE SUSPENSO
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo=",CINE SUSPENSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Movies_TV" tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="https://i.imgur.com/I5XxyLI.png",Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Cine XOXO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="EU_SPAIN_PLUTO",Cine XOXO
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",Cine XOXO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="Amerika_*Latino_PLUTOTV",CINE XOXO
+#EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:-1 group-title="LG_Channels",Qwest Jazz (MX)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8
