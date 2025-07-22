@@ -3319,236 +3319,58 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d18009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="←«🔆PLUTO CINE ESPAÑOL🔆»→"tvg-logo="",CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/727414680801710080/suh81uar.jpg",ช่อง Visit-X TV
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
 http://live.redtraffic.xyz/asian.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Ass
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Dick
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Tits
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net MILF
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net MILF
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Fetish
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Fetish
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Pornstar
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Interracial
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Interracial
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Latina
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Latina
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net POV
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net POV
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blowjob
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Teen
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Teen
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Hardcore
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Cuckold
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Threesome
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Russian
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Russian
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Lesbian
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Rough
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Rough
 http://live.redtraffic.xyz/rough.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gangbang
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gangbang
 http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Compilation
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Compilation
 http://live.redtraffic.xyz/compilation.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Brunette
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Brunette
 http://live.redtraffic.xyz/brunette.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blonde
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blonde
 http://live.redtraffic.xyz/blonde.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gay
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gay
 http://live.redtraffic.xyz/gay.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Live Cams
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Live Cams
 http://live.redtraffic.xyz/livecams.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
+#EXTINF:-1 group-title="←«🔆ADULT CHANNEL🔆»→" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
 http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง 21 Sextury
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12205/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง A3 Bikini
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6165/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง AST TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6169/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง AST TV 2
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6170/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Adult Time
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6166/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba 1
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12105/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba 2
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12107/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba 3
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12109/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba 4
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12110/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba 5
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12111/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba XXX HD 1
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12204/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alba XXX HD 2
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12194/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Alex Legend
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12193/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง All Anal
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12192/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Amateur Boxxx
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12191/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal 4K
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12190/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal Mom
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12189/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal Only
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12184/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal Red TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6167/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal Teen Angels
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12183/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Anal Time
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12181/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Analized HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6168/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Asshole Fever
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12169/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง BAG U
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12170/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง BBC Pie
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12164/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง BCU Charm HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/18053/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง BRAZZERS TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12113/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง BRAZZERS TV Europe 2
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/872/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Babes HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6171/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Babes TV HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6172/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Balkan Erotic
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6270/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Banana Fever
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12168/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bang Bros HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6173/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bang Bus
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12167/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bang POV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12166/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bang U
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12114/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bang!
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6174/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bangerz
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6271/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Barely Legal TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12165/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Barely legal
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/871/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Big Ass Adult TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6175/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Big Dick Red TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6176/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Big Tits Adult TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6177/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Blacked
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6178/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Blowjob Red TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6180/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Blue Hustler
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/1064/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Brand New Amateurs
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12162/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Bratty Sis
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12161/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Brazzers
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6182/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Brazzers eXXtra
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6181/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Brunette Adult TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6183/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cento X Cento
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12129/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cherry Pimps
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6185/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง CineMan ExExEx
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20089/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง CineMan ExExEx TWO
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20090/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Club 17
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6186/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Compilation Adult TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6187/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cuckold Red TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6188/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cum Louder
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6189/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cum Perfection
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12158/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Cum4k
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6190/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DDF Busty
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6193/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DDF Network
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6194/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DE Blue Hustler
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20023/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DE Lust pur
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20024/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DE Penthouse Passion
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20025/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DE Playboy Europe
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/20026/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง DORCEL TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12131/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dad Crush
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12154/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dancing Bear
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12144/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dark X
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12140/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Daughter Swap
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6191/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Day with a Pornstar
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6192/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Deep Lush
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12139/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Deep Throat Sirens
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12138/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Digital Desire
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6195/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Digital Playground
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6196/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dirty Flix
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12130/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dirty Masseur
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12128/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dirty Wives Club
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/12122/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dorcel Club
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6197/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dorcel HD orig
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/9064/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dorcel TV HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/245/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Dorcel TV
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/878/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง EXTASY HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/11051/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง EXXXOTICA HD orig
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/9346/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Emanuelle HD
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/6272/index.m3u8
-#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://cdn11.bigcommerce.com/s-beybikqdeo/images/stencil/590x590/products/94/433/redlight8premium__42001_zoom__44514.1699707457.jpg?c=1",ช่อง Eromania 4K
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/10049/index.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",「中」毛宁-蓝蓝的夜蓝蓝的梦
 http://vd1.bdstatic.com/mda-hemzqd1rrbr8q4kw/sc/mda-hemzqd1rrbr8q4kw.mp4
 #EXTINF:-1 group-title="RUS_EXXCP 2",43 канал HD
