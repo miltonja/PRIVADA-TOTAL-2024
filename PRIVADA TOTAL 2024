@@ -15,7 +15,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LX9pr521/Red-TVE-Ventanas.png",🔆|➾RED TV VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-name="CANAL 3 IMPRESIONANTE"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/mdfiWG9.png",🔆|➾CANAL 3 IMPRESIONANTE
+#EXTINF:-1  tvg-name="CANAL 3 IMPRESIONANTE"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/CLYjkTPF/CANAL-3-IMPRESIONANTE-BLANCO.png",🔆|➾CANAL 3 IMPRESIONANTE
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 #EXTINF:-1  tvg-name="FEECUENCIA MUSICAL"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/vPxvbVv.png",🔆|➾FRECUENCIA MUSICAL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -45,7 +45,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1  tvg-name="RUN TIME ACCION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/RFbmsCWs/Runtime-Accio-ESP.png",🔆|➾✩»→RUN TIME ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="🔆←«CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
+#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1  tvg-name="MY TIME MOVIE NETWORK"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -59,7 +59,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FMH FAMILY"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/qMRy8qzp/FMH-FAMILY-BLANCO.png",🔆|➾FMH FAMILY
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name=""group-title="←«🔆TELENOVELAS Y DRAMAS🔆»→"tvg-logo="https://i.postimg.cc/BQtJJXnd/logo-novelas-inolvidables-Disney-white.png",🔆|➾NOVELAS INOLVIDABLES
+#EXTINF:-1 tvg-name="NOVELAS INOLVIDABLES"group-title="←«🔆TELENOVELAS Y DRAMAS🔆»→"tvg-logo="https://i.postimg.cc/BQtJJXnd/logo-novelas-inolvidables-Disney-white.png",🔆|➾NOVELAS INOLVIDABLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-name="NOVELAS MEXICANAS"group-title="←«🔆TELENOVELAS Y DRAMAS🔆»→tvg-logo="https://i.postimg.cc/CLn9vD1L/featured-Image.jpg",🔆|➾NOVELAS MEXICANAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -100,9 +100,9 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-name="CANAL 12"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.postimg.cc/pLKGY43r/800px-Canal-12-El-Salvador-2018.png",🔆|➾CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-name="UNIVISION 24/7 VIX"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/T1cv8sFj/UNIVISION-MEJOR.png",🔆|➾UNIVISION 24/7 VIX
+#EXTINF:-1 tvg-name="UNIVISION 24/7 VIX"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/T1cv8sFj/UNIVISION-MEJOR.png",🔆|➾UNIVISION 24/7 VIX
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
-#EXTINF:-1 tvg-name="TELEMUNDO 52"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/mgPjf0Zq/TELEMUNDO-52-CALIFORNIA.png",🔆|➾TELEMUNDO 52
+#EXTINF:-1 tvg-name="TELEMUNDO 52"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/mgPjf0Zq/TELEMUNDO-52-CALIFORNIA.png",🔆|➾TELEMUNDO 52
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO AL DIA"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/FRQJXRh9/Telemundo-al-D-a.png",🔆|➾TELEMUNDO AL DIA
 https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036&declaredCC1Language=es&ads.caid=telemundoaldia_linear&ads.csid=samsungtvplus_us_telemundoaldia_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137391198&ads.sfid=16772609&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=&ads._fw_h_x_country=US&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=telemundoaldia&ads.xumo_providerId=2561&ads.xumo_providerName=telemundoaldia&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=telemundoaldia&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
@@ -152,7 +152,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-name="CANELA CINEMA"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.imgur.com/HiHfp9O.png",🔆|➾CANELA CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
-#EXTINF:-1 tvg-name="AZTECA INTERNACIONAL"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.imgur.com/PwW8m4V.png",🔆|➾AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-name="AZTECA INTERNACIONAL"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.imgur.com/PwW8m4V.png",🔆|➾AZTECA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 #EXTINF:-1 tvg-name="CORAZON"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.postimg.cc/L5DjB0JK/AZTECA-CORAZON-ESP.png",🔆|➾CORAZON
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
@@ -204,7 +204,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
 #EXTINF:-1 tvg-name="FREE TV LIVE"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/fLWRNBD5/freetv-familia-1080x1080-02092024.jpg",🔆|➾FREE TV LIVE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
-#EXTINF:-1 tvg-name="CANAL 57 USA"group-title="←«🔆ENTRETENIMIENTO🔆»→"tvg-logo="https://i.postimg.cc/zDbMM55x/150px-Cine-Latino-logo-svg.png",🔆|➾CANAL 57 USA
+#EXTINF:-1 tvg-name="CANAL 57 USA"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/zDbMM55x/150px-Cine-Latino-logo-svg.png",🔆|➾CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.m3u8
 #EXTINF:-1 tvg-name="MY TIME ESPAÑA"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME ESPAÑA
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -224,7 +224,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wm
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?url=&genre=&ic=&us_privacy=1YNY&coppa=1&user_id=&ip=&ipv6=&c_duration=3600&c_producer=chiquilines&c_rating=TV-G&c_lang=es&ua=&hls_marker=1&content_channel=Chiquilines&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120&terminate=true&sid=&deviceDNT=0&advertisingId=&deviceLat=0&deviceLon=0&deviceModel=&deviceVersion=&embedPartner=freetv&serverSideAds=true&appName=freetv&deviceId=&appVersion=&deviceType=&deviceMake=&includeDeviceUA=true
 #EXTINF:-1 tvg-name="CGTN EN ESPAÑOL"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.imgur.com/kmqbSEt.png",🔆|➾CGTN-ESPAÑOL
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-name="CGTN ESPAÑOL"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.imgur.com/kmqbSEt.png",🔆|➾CGTN ESPAÑOL
+#EXTINF:-1 tvg-name="CGTN ESPAÑOL"group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://i.imgur.com/kmqbSEt.png",🔆|➾CGTN ESPAÑOL
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-name="ANGER MANAGMENT"group-title="←«🔆MEXICO🔆»→"tvg-logo="https://i.imgur.com/qsnps4m.png",🔆|➾ANGER MANAGMENT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermngmtespanol-runtimelatam/playlist.m3u8
