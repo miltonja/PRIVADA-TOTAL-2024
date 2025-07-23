@@ -45,7 +45,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1  tvg-name="RUN TIME ACCION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/RFbmsCWs/Runtime-Accio-ESP.png",🔆|➾✩»→RUN TIME ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="🔆»→CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
+#EXTINF:-1 tvg-name="XTREMA ACCION"group-title="🔆←«CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/4x0vj0nt/CINE-ACCION04.png",🔆|➾XTREMA ACCION
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1  tvg-name="MY TIME MOVIE NETWORK"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/tTNHdbGk/MY-TIME-MOVIE-1.png",🔆|➾MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -110,7 +110,7 @@ https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_cha
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:-1 tvg-name="UNIVERSO"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/MT31G4F5/universo.png",🔆|➾UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="←«🔆CGTN (español)🔆»→"tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg" group-title="Televisión"🔆|➾,CGTN
+#EXTINF:-1 tvg-id="CGTN (español)"group-title="←«🔆NOTICIAS🔆»→"tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/cgtn_espa%C3%B1ol.jpg",🔆|➾,CGTN
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="DRAMAS COREANOS"group-title="←«🔆PLUTO TV🔆»→"tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/dramas_coreanos.jpg",🔆|➾DRAMAS COREANOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PS
