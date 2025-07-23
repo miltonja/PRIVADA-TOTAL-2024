@@ -13,7 +13,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1  tvg-name="CR TELEVISION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/DykqPGVG/CR-TELEVISION.png",🔆|➾CR TELEVISISON
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://cdn.m3u.cl/logo/1286_Red_TVE_Ventanas.png",🔆|➾RED TV VENTANAS
+#EXTINF:-1  tvg-name="RED TV VENTANAS"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/LX9pr521/Red-TVE-Ventanas.png",🔆|➾RED TV VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="CANAL 3 IMPRESIONANTE"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/mdfiWG9.png",🔆|➾CANAL 3 IMPRESIONANTE
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
