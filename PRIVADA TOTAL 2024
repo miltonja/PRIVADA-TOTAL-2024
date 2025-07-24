@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
-https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
+#EXTINF:-1  tvg-name="AURORA MEDIA FILMS TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/ydz1gzWB/AURORA-MEDIA-FILMS.png",🔆|➾AURORA MEDIA FILMS
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1  tvg-name="MULTICANAL  TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/BvqzKzWM/MULTICANAL.png",🔆|➾MULTICANAL
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1  tvg-name="VIBRA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/7hSTzjYT/VIBRA-TV.png",🔆|➾VIBRA TV
 https://sc1.wasidata.com/VibraPlus/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=app120425
 #EXTINF:-1  tvg-name="MI TURNO TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Ghwn7Nk5/MI-TURNO-TV.png",🔆|➾MI TURNO TV HD
@@ -94,6 +96,8 @@ https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1 tvg-name="FUTBOL NEW YORK"group-title="←«🔆DEPORTES🔆»→"tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png",🔆|➾FUTBOL NEW YORK
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CHILE🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
+https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
 #EXTINF:-1 tvg-name="TELEMUNDO"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/P5nbnN0r/Telemundo-51.png",🔆|➾TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS"group-title="←«🔆PREMIUM🔆»→"tvg-logo="https://i.postimg.cc/YCLT10XM/fox-sports.png",🔆|➾FOX SPORTS
