@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1tvg-name="ELIAS PIÑA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/mZzk00K3/ELIAS-PI-A.png",🔆|➾ELIAS PIÑA TV 
+https://live.eliaspinatv.com.do/livelan/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1  tvg-name="AURORA MEDIA FILMS TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/ydz1gzWB/AURORA-MEDIA-FILMS.png",🔆|➾AURORA MEDIA FILMS
