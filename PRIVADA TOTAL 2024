@@ -1000,8 +1000,6 @@ http://213.91.178.133:8000/play/a0at
 http://213.91.178.133:8000/play/a0ar
 #EXTINF:-1tvg-name="💢MAX Sport 4 HD" tvg-logo="https://i.postimg.cc/VLQhzqrz/MAX-Sport-4-CMYK.png"group-title="💢DEPORTES💢",💢|➾MAX Sport 4 HD
 http://213.91.178.133:8000/play/a05n
-#EXTINF:-1tvg-name="💢Arena Sport 1 [SK]" tvg-logo="https://i.postimg.cc/SsTbRJ9m/image.png"group-title="💢DEPORTES💢",💢|➾Arena Sport 1 [SK]
-http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1tvg-name="💢beIN SPORTS XTRA"tvg-logo="https://i.postimg.cc/vHs7FwfC/BEIN-SPORTS-EXTRA-1.png"group-title="💢DEPORTES💢",💢|➾beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1tvg-name="💢Dubai Sports 2"tvg-logo="https://i.postimg.cc/h4fszpQ9/DUBAI-SPORTS-2.png"group-title="💢DEPORTES💢",💢|➾Dubai Sports 2
@@ -1010,11 +1008,11 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🔅RELITY🔅" tvg-logo="https://i.postimg.cc/5ycqLd2g/IDEAS-EN-5-MINUTOS.png",🔅|➾IDEAS EN 5 MINUTOS
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/2jqkD1K3/ACAPULCO-SHORE-ESP.png",🔅|➾MTV Shore | Pluto TV Espanha
+#EXTINF:-1 group-title="🔅RELITY🔅"tvg-logo="https://i.postimg.cc/2jqkD1K3/ACAPULCO-SHORE-ESP.png",🔅|➾MTV Shore | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png",🔅|➾MIAMI TV
+#EXTINF:-1 group-title="🔅RELITY🔅"tvg-logo="https://i.postimg.cc/90n4my14/logo-miami-tv.png",🔅|➾MIAMI TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cLC41tTJ/ridiculousness-esp.png",🔅RELITY🔅"🔅|➾MTV RIDICUlOUSNESS
+#EXTINF:-1 group-title="🔅RELITY🔅"tvg-logo="https://i.postimg.cc/cLC41tTJ/ridiculousness-esp.png",🔅RELITY🔅"🔅|➾MTV RIDICUlOUSNESS
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=66d76556-8d6c-11ed-8742-f7590bf4ff5d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02491c57-00f8-4b69-a814-92e8e0299ddf&userId=&serverSideAds=true
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/HLhFD8Rf/Runtime-LATINO.png",✩»→RUN TIME LATINO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
@@ -1048,7 +1046,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 #EXTINF:-1 group-title="←«✩MEXICO 24/7✩»→" tvg-logo="https://i.postimg.cc/7LcDMZ1n/Canela-tv-Azteca-uno.png",✩»→AZTECA UNO (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/qR5vWwPN/png-clipart-red-bull-north-america-energy-drink-red-bull-gmbh-marketing-red-bull-company-text.png",⚽|RED BULL TV * |HD|
+#EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://www.rallyes.net/wp-content/uploads/2016/12/wrc-2017-directo-red-bull-tv.jpg",⚽|RED BULL TV * |HD|
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="⚽DEPORTES⚽" tvg-logo="https://i.postimg.cc/fLXvrX1j/BEIN-SPORTS-EXTRA-ESP.png",⚽| BEIN SPORTS EXTRA
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
