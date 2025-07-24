@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-name="TELEVISION METROPOLISTV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/QaocW5x.png",🔆|➾TELEVISION METROPOLIS 19.2
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1  tvg-name="NET CHANNEL SEÑAL 2 TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/HL2xp88T/net-channel.png",🔆|➾NET CHANNEL SEÑAL 2
 https://media.streambrothers.com:19360/8158/8158.m3u8?WebM3UCL
 #EXTINF:-1  tvg-name="VIBRA TV"group-title="←«🔆CINE 24/7🔆»→"tvg-logo="https://i.postimg.cc/7hSTzjYT/VIBRA-TV.png",🔆|➾VIBRA TV
