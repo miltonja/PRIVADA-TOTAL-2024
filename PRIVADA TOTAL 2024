@@ -17,7 +17,7 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1  tvg-name="COSMOS TV "group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png",🔆|➾COSMOS TV HD SAN JUAN
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1  tvg-name="CINEMA +"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.imgur.com/ExZeBRf.png",🔆|➾CINEMA +
+#EXTINF:-1  tvg-name="CINEMA +"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/qvwPL9YY/CINEMA-esp.png",🔆|➾CINEMA +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1  tvg-name="CR TELEVISION"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/DykqPGVG/CR-TELEVISION.png",🔆|➾CR TELEVISISON
 https://live.obslivestream.com/crtvmux/index.m3u8
