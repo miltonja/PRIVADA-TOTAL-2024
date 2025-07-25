@@ -39,7 +39,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 #EXTINF:-1  tvg-name="SOL TV HD"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/BZBpYzPN/SOL-TV-MEJOR.png",🔆|➾SOL TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1  tvg-name="NEO TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/L84vcjgs/Neo-Tv.png",🔆|➾NEO TV
+#EXTINF:-1  tvg-name="NEO TV"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/L84vcjgs/Neo-Tv.png",🔆|➾NEO TV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-name="RUN TIME LATINO"group-title="←«🔆CINE 24/7🔆»→" tvg-logo="https://i.postimg.cc/Z52cxNT5/RUN-TIME-MEJOR-GRIS-BLANCO.png",🔆|➾✩»→RUN TIME LATINO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
