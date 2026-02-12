@@ -414,28 +414,6 @@ https://inliveserver.com:1936/18506/18506/chunklist_w237701265.m3u8
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name=" 1Mus HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/rp72rfMn/1music.png",🔆|➾1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1  tvg-name="MUZZIK  HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",🔆|➾MUZZIK  HD
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK  R&R HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/J4sM6F3y/MUZZIC-R-R.png",🔆|➾MUZZIK  R&R HD
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-id="MUZZIK"tvg-logo="https://i.postimg.cc/T1kZxnm2/MUZZIC-PIOPSTAR.png"group-title="MUSICA",🔆|➾MUZZIK HD
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/VvYWRTJ5/MUZZIC-WWM.png",🔆|➾MUZZIK HD
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK TIKTAK HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/rF5f5vQG/MUZZIC-TIKTAK.png",🔆|➾MUZZIK TIKTAK HD
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK JEKA HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/s1CfJph3/MUZZIK-JEKA.png",🔆|➾MUZZIK JEKA HD
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK Z&Z  HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/0yHg4zJd/MUZZIK-Z-Z.png",🔆|➾MUZZIK Z&Z  HD
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK SENSE  HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/fTCkJf6z/MUZZIK-SENSE.png",🔆|➾MUZZIK SENSE  HD
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK  HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/hvDLcRFD/muzzik-ESP.png",🔆|➾MUZZIK  HD
-https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK FLASH BACK HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/vHq0dKb5/MUZZIK-FLASHBACK.png",🔆|➾MUZZIK FLASH BACK  HD
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1  tvg-name="MUZZIK MOBA  HD"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/Hx0VQFBK/MUZZIK-MOBA.png",🔆|➾MUZZIK MOBA  HD
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1  tvg-name="QWEST TV"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/633JLzGx/6059be4e542a774d2917fcbb-new-Logo-white.png",🔆|➾QWEST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
 #EXTINF:-1  tvg-name="TELERITMO TV"group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/wx08wXdd/TELERITMO-2021.png",🔆|➾TELERITMO
@@ -573,26 +551,6 @@ http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516932.ts
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516931.ts
 #EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS +
 http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516933.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS 
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516934.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS + HD
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516935.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS + HD OP 1
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516929.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS + VIP 1
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/516921.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS OP 1
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/485515.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ FHD
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/12840.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ HD
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/395946.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ HD OP2
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/479415.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ SD OP2
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/505449.ts
-#EXTINF:-1  tvg-name=""group-title="←«🔆WIN PLUS🔆»→" tvg-logo="",🔆|➾WIN SPORTS+ SD 
-http://netgotvapp.website:80/AlexanderNavarro/UkxEeg8EjF/12759.ts
 #EXTINF:-1  tvg-name=""group-title="←«🔆ECUADOR🔆»→"tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg",🔆|➾ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1  tvg-name=""group-title="←«🔆MUSICA🔆»→" tvg-logo="https://i.postimg.cc/HskfSdhY/Logo-DASDING-265x133.webp",🔆|➾DASDING 90.8 
